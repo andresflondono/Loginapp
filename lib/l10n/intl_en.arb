@@ -1,0 +1,23 @@
+{
+  "appname": "loginapp",
+  "phone": "Celular",
+  "email": "Correo",
+  "company": "Compañia",
+  "slogan": "Eslogan",
+  "city": "Ciudad",
+  "suite": "Suite",
+  "sreet": "Sreet",
+  "zipCode": "Zip",
+  "location": "Ubicación",
+
+"web": "Pagina web",
+  "login": "Login",
+  "signout": "Salir",
+  "errornotification": "Ha ocurrido un error",
+  "completefield": "Campo requerido",
+  "user": "Usuario",
+  "password": "*********",
+  "incorrect": "Datos incorrectos"
+
+
+}
